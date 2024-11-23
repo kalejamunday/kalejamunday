@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kalejamunday
+- 👋 Hi, I’m Sriniketh Bobbili
 - 👀 I’m interested in quantum computing
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on AI
